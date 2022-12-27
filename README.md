@@ -70,7 +70,7 @@ def lambda_handler(event, context):
         'body': json.dumps('Hello from Lambda!')
     }
 
-https://www.youtube.com/watch?v=5llBuFMegO0&list=PLcw5TTdQlsECxTYzc0o5AK-t-reDBzI3k&index=5 
+
 #Final single Lambda function reading from s3 and writing into AMzon RDS
 import json
 import boto3
